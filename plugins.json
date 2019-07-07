@@ -191,6 +191,23 @@
             },
             "author": "Charuwts, LLC",
             "zipUrl": "https:\/\/github.com\/Ubiquiti-App\/UCRM-plugins\/raw\/master\/plugins\/ucrm-client-signup\/ucrm-client-signup.zip"
+        },
+        {
+            "name": "sms-gosms",
+            "displayName": "SMS notifications via GoSMS",
+            "description": "sms-gosms is based on sms-twilio plugin. This plugin sends SMS notifications via GoSMS. NOTE: only phone numbers in the international format can be used, e.g. +155 555 1234",
+            "url": "https:\/\/github.com\/vojapet\/UCRM-plugins\/tree\/master\/plugins\/sms-gosms",
+            "version": "0.0.1",
+            "ucrmVersionCompliancy": {
+                "min": "2.14.0-beta",
+                "max": null
+            },
+            "unmsVersionCompliancy": {
+                "min": "1.0.0-dev.1",
+                "max": null
+            },
+            "author": "Petr Vojacek, petr.vojacek.tu@gmail.com",
+            "zipUrl": "https:\/\/github.com\/vojapet\/UCRM-plugins\/tree\/master\/plugins\/sms-gosms\/sms-gosms.zip"
         }
     ]
 }

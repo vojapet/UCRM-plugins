@@ -25,6 +25,7 @@ UCRM plugins are compatible with UCRM 2.10.0+
 | [Invoice CSV Export](https://github.com/Ubiquiti-App/UCRM-plugins/tree/master/plugins/invoice-csv-export) | Configurable export of invoices into CSV, can be used for a manual export to 3rd party accounting tools. |
 | [Revenue Report](https://github.com/Ubiquiti-App/UCRM-plugins/tree/master/plugins/revenue-report) | Revenue report grouped by products or services, shown under the Reporting main menu section. |
 | [Facturas Argentina AFIP](https://github.com/Ubiquiti-App/UCRM-plugins/tree/master/plugins/argentina-afip-invoices) | Plugin para obtener CAE (Facturacion electronica) en Argentina |
+| [SMS Gateway (GoSMS) Integration](https://github.com/vojapet/UCRM-plugins/tree/master/plugins/sms-gosms) | Integrates GoSMS SMS gateway which enables UCRM to send SMS to clients triggered by custom defined events, e.g. client's service gets suspended. |
 
 ## Plugins / API scripts from other sources
 * [Client&nbsp;Signup Extended](https://www.charuwts.com/plugins/ucrm-signup) - Extended version of Client Signup Plugin
